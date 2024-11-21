@@ -3,6 +3,9 @@
 
 This project is an automated bot that swaps tokens on the Hemi network every 6 hours support multiple wallets. It allows users to perform token swaps automatically at regular intervals, without manual intervention.
 
+Register : https://points.absinthe.network/hemi/start
+Invite Code : c7e7f4a9
+
 ## Features
 - **Automatic Token Swap**: Performs token swaps using a specified contract on the Hemi network.
 - **Multi-Wallet Support**: The bot reads private keys from a file and performs the swap on multiple wallets.
